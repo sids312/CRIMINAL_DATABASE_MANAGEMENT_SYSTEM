@@ -1,0 +1,12 @@
+CRIMINAL DATABASE MANAGEMENT SYSTEM IN C++
+
+**Login Details**
+
+Username: siddu
+
+Password: siddu123
+
+
+**Developed By VAGHMARE SIDDHARTH**
+
+
